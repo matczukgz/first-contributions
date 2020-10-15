@@ -55,6 +55,7 @@ _ [Adil Jafar](https://github.com/xcyraxx)
 - Chaitanya
 - Aniket
 - [Bhupen Basumatary](https://github.com/bbhupen)
+- [Gabriela Matczuk] ( https://github.com/matczukgz)
 - [Ilarion Kolomoiets](https://github.com/Arnes94)
 - [Finn McKay](https://github.com/DunedinSoftworks)
 - [Anoop T U] (https://github.com/anoop-tu/)
